@@ -9,6 +9,6 @@ Pre-training: https://colab.research.google.com/drive/1KSx9GxQlWZU5g6pY568r6EXuB
 2-stage pipeline: https://colab.research.google.com/drive/1hNhgbjG_keH-kiEsxrU5EY__d33flsn5?usp=sharing<br>
 3-stage pipeline: https://colab.research.google.com/drive/1dJ1jdadfZOptztm7dQJvn26Z95KQmR4B?usp=sharing<br>
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/19bAIOep38LUCGrXG7d6p0EL1PN_Iqloj/view?usp=drive_link<br>
 
 Declaration: We have used LLMs to generate code and then debugged. We have written the report and then used LLMs to make the language formal.
